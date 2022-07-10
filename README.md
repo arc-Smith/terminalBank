@@ -1,0 +1,1 @@
+The project implements a Bank Simulation program using Java, typed on Terminal. The "Main.java" file serves as the central file allowing customers to create a CD, Checking, or Savings account and then interact with those accounts using search, deposit, and withdraw methods.
