@@ -8,7 +8,7 @@ This is a simple terminal-based banking application built to practice Object-Ori
 
 * **Classes & Objects:** Modeling different bank accounts (Checking, Savings, and CD) as distinct classes.
 * **Encapsulation:** Protecting account data by using private fields and public methods for interaction.
-* **Methods:** Implementing core banking functions like `deposit`, `withdraw`, and `save`.
+* **Methods:** Implementing core banking functions like `save`, `deposit`, and `withdraw`.
 
 ---
 
