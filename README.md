@@ -1,6 +1,6 @@
 # Terminal Bank
 
-This is a simple terminal-based banking application built to practice Object-Oriented Programming (OOP) concepts in Java. It serves as a hands-on exercise in applying foundational principles to a practical scenario.
+This is a simple terminal-based banking application built to practice Object-Oriented Programming (OOP) concepts in Java. It serves as a hands-on exercise in applying foundational principles to a practical scenario..
 
 ---
 
